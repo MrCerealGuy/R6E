@@ -4,7 +4,7 @@
   <export target="../../src/assets/tilemaps/map1.csv" format="csv"/>
  </editorsettings>
  <tileset firstgid="1" name="tileset1" tilewidth="8" tileheight="8" tilecount="120" columns="8">
-  <image source="../../src/assets/tilesets/tileset01.png" trans="ff00ff" width="64" height="120"/>
+  <image source="../../assets/tilesets/tileset01.png" trans="ff00ff" width="64" height="120"/>
   <tile id="0">
    <properties>
     <property name="collides" type="bool" value="false"/>
